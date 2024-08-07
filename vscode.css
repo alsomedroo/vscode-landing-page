@@ -1,0 +1,31 @@
+.bod{
+    background-color: #0e0e0e;
+}
+header{
+    font-family: "Segoe UI", "Helvetica Neue", sans-serif;
+}
+.header-main-div{
+    display: flex;
+    padding-left: 130px;
+    padding-right: 140px;
+    padding-top: 10px;
+    justify-content: space-between;
+}
+.header-main-div div{
+    display: flex;
+    justify-content: space-between; 
+}
+.header-main-div a{
+    text-decoration: none;
+    color: #9ba3b4;
+}
+.download-but{
+    background-color: #0078d4;
+    color: #fff;
+    width: 100px;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
